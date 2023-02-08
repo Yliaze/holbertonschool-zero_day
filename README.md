@@ -1,2 +1,1 @@
-My first readme
-Update only for the task 4 in my git project
+My first readme but updated only for the task 4 in my git project
